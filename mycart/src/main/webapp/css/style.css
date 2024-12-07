@@ -1,0 +1,29 @@
+.custom-bg {
+    background: rgb(0, 0, 0) !important; /* Changed to black */
+}
+
+.admin .card {
+    /* Add specific styling if needed */
+}
+
+.admin .card:hover {
+    background: #e2e2e2;
+    cursor: pointer;
+}
+
+.list-group-item-active {
+    background: #000000 !important; /* Changed to black */
+    border-color: #000000 !important; /* Changed to black */
+}
+
+.discount-label {
+    font-size: 10px !important;
+    font-style: italic !important;
+    text-decoration: line-through !important;
+    color: #000000 !important; /* Changed to black */
+}
+
+        h3 {
+            color: white; /* Change all h3 elements to white */
+        }
+  
